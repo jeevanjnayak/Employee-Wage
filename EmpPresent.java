@@ -6,9 +6,9 @@ public class EmpPresent {
         int Is_Present = 1;
         Double EmpStatus = Math.floor(Math.random() * 10) % 2;
         if(EmpStatus == Is_Present)
-            System.out.println("Employee is present");
+            System.out.println("The employee is present");
         else
-            System.out.println("Employee is absent");
+            System.out.println("The employee is absent");
 
 
     }
