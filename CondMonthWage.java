@@ -3,7 +3,7 @@ package com.company;
 import java.util.Random;
 import java.util.Scanner;
 
-public class MonthlyWage {
+public class CondMonthWage {
 
     public static void main(String[] args) {
         Scanner input = new Scanner( System.in);
