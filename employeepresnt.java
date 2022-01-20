@@ -1,6 +1,6 @@
 package com.company;
 
-public class trimonthly {
+public class employeepresnt {
 
     public static void main(String[] args) {
         int Is_Present = 1;
